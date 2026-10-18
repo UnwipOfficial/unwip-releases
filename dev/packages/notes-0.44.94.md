@@ -1,0 +1,1 @@
+- iPhone: a book's ⋯ menu now has Export… (PDF, EPUB, Word, Scrivener). It used to be only on the PC and iPad's top bar.
