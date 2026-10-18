@@ -1,0 +1,4 @@
+- Deleting a book everywhere no longer waits for Dropbox to finish uploading it first. It stops the upload and deletes in a few seconds. Deleting on this device only still sends its latest changes first, and now tells you that's what it's waiting for.
+- Importing with auto sync on: syncing waits until the whole book is in, then sends it in one go, so the count only goes down.
+- The sync count shows only files that actually need sending or fetching, not every file it checks.
+- Recently updated no longer calls a change from another device "this computer". Each device now has its own hidden ID, and phones and iPads say "this iPhone" or "this iPad".
