@@ -1,0 +1,7 @@
+- iPhone with a keyboard plugged in: the B I U, Body and Title row now sits above the iPhone's own ^ v ✓ bar instead of underneath it.
+- iPhone: the ^ on that bar no longer moves you into a hidden line under the chapter title. You stay on the page.
+- The synopsis line under a chapter's title (Detail) shows all of it on a phone, instead of being squashed flat.
+- iPhone: tapping a map in your chapter list opens it, instead of showing only the ✕.
+- iPhone: no more split view, which was too small to use there. Open beside opens the other page on its own, and ‹ takes you back to your chapter.
+- Read aloud on a phone now shows the voice list. On an iPhone or iPad, More voices… tells you where to download better ones for free.
+- Settings › Goal colours: pick your own colours for the Today, This week and Manuscript rings.
