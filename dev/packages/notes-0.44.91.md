@@ -1,0 +1,3 @@
+- iPhone: on a map, Done stays put at the right end of the top bar while you swipe the buttons, instead of sliding over them.
+- Sync now saves anything you did a moment ago first, so a book no longer shows "Not synced" right after you sync.
+- Closing a map you only looked at no longer counts as a change, so it doesn't mark the book as not synced.
