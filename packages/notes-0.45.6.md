@@ -1,0 +1,1 @@
+- Import / Export: the "Guide me through imports" switch is now right under Bring a book in, so you can turn the guide on or off where you start. Bring a book in says what it will do: sort it a section at a time with Unwip's guesses and previews, or bring it straight in as it is. It's the same setting as in Settings.
