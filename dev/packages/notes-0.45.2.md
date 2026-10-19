@@ -1,0 +1,1 @@
+- Unwip Dev: importing a Scrivener project from Dropbox now uses the same read-only permission as the normal Unwip, so it can find your projects anywhere in your Dropbox. Before, it could only look inside Dev's own folder. It asks once on each device, separately from syncing, and can't change anything in your Dropbox.
