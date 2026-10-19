@@ -1,0 +1,1 @@
+- Unwip Dev can now connect to Dropbox, in a folder of its own (Dropbox › Apps › Unwip Dev), so syncing between devices can be tried on Dev before it reaches everyone. Your real books in Apps › Unwip can't be reached from Dev. Dev's Scrivener import on an iPhone or iPad can pick a project straight from Dropbox too.
