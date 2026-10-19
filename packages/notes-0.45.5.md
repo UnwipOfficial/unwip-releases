@@ -1,0 +1,3 @@
+- Import room: a list's card now shows a small preview of each page it would make, laid out like that section's own sheet (Full name, Aliases and so on), with ‹ › to look through them and where they'll go. On an iPhone it folds away under the buttons and remembers whether you left it open.
+- Send a book out: the Structure step shows how a chapter will look in the app you chose: Scrivener's binder and page, a Word or Google Docs page, or an Obsidian or Markdown note. Use ‹ › to look at other chapters. What changes shows small samples too, like a character's gear list and the Story Bible.
+- Importing from Scrivener on an iPhone or iPad: if Dropbox is busy for a moment, Unwip quietly tries again a couple of times before telling you.
