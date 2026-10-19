@@ -1,0 +1,9 @@
+- Back to where you were: follow a link (a name, Appears in, a map pin, a search result) and a "← Back to …" chip shows at the top of the page. It takes you back to the same spot, and Forward goes again. Hover it on a computer to jump back several pages. Alt+← / Alt+→ (Cmd+[ / Cmd+] on a Mac) and a mouse's back and forward buttons do the same.
+- Import: chapter names keep numbers that are part of the name, so "3.3-001 - Crash and Burn" no longer comes in as "3-001".
+- Import: "Anything else to bring in?" adds a folder of notes, research or world-building kept apart from your chapters. They go into Notes, ready to sort.
+- Import: Markdown with Pandoc styling marks for Word (::: {custom-style=…} lines, [words]{.underline}) gets a "Tidy away" tick. The ::: lines go, the words inside stay, and {.underline} becomes real underlining.
+- Import: the Characters step shows every name it found. The surest come first, the rest are under "More names, less sure", and there's a reminder that you can make a page for anyone later.
+- After an import, a short look round shows where your characters are, where they turn up, and where everything else went. It shows once.
+- Import / Export now also sits next to New book on a computer.
+- A book no longer closes as "deleted on another device" when Dropbox only swaps its file for a moment, and the message only says it's in Deleted books when it really is.
+- iPhone: the Bring in your book screen fits the width, and the ✕ no longer covers Cancel.
