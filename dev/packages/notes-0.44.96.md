@@ -1,0 +1,1 @@
+- Import / Export: clearer wording at the bottom. Export inside a book is where you preview every page and make a print-ready PDF or an EPUB to publish.
