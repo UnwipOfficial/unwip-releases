@@ -1,0 +1,2 @@
+- Conflicted copies (a chapter changed on two devices at once) now sit in their own section below the Trash, like Scrivener's, and each copy has a ⚠️ in your chapter list. Drag one out to wherever you want it and it becomes an ordinary document, or delete it.
+- Unwip Dev on an iPhone or iPad: importing from Scrivener no longer tells you to pick the project from Dropbox, which Dev can't do yet. It asks for a zip.
