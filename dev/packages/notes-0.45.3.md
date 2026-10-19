@@ -1,0 +1,1 @@
+- Fixed: importing from Scrivener on an iPhone or iPad could ask you to sign in to Dropbox again for no good reason. If Dropbox was busy at the moment Unwip renewed its sign-in, the sign-in was thrown away. Now it's kept, and you're told to try again in a minute. Only Dropbox saying the sign-in is no longer valid asks you to sign in again.
