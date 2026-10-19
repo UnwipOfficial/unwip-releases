@@ -1,0 +1,1 @@
+- Fixed: on an iPhone or iPad with a signal but no working connection, opening a book that another device had changed showed "Couldn't check Dropbox", and Open anyway did nothing. It now opens within a few seconds, so you can keep writing offline. Your changes sync when you're back online, and if both devices changed the same chapter you get both versions to choose from.
