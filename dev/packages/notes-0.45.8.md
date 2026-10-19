@@ -1,0 +1,4 @@
+- Import room: "Keep it as one document" no longer jumps to the next document. It stays put and shows ✓ Kept as one document, so you can see what you picked, and you can still choose one page per entry instead.
+- Import room: on the last document of a step, Next document goes on to the next step instead of being greyed out.
+- Import room: a list of people written on separate lines of one paragraph (common from Scrivener) is found as a list, with the one-page-per-person choice and its preview.
+- Import room: a notes page named after a game term (like "Danger Rating") is no longer guessed to be a person, and lines that are a whole [system message] aren't read as people's names.
