@@ -1,0 +1,6 @@
+- iPhone and iPad: ✎ Edit at the bottom of the binder. Drag rows by ≡ into folders, between rows, or out of a folder by sliding left. Tick several to move them together, with Move to…, Out of folder or Trash. Ticking a folder takes everything in it along.
+- In the Trash, holding something offers Put back, which returns it to where it was deleted from.
+- iPhone and iPad: holding a row or a menu no longer selects its text with Copy / Look Up / Translate.
+- Import room: every list now comes with Unwip's pick (one page each in Characters, Places and Items, one document elsewhere), so nothing comes back for a second pass. Switch any time. The pages are made when you move on to the next step, all in one review window.
+- Import room: every document shows a preview of how it will look, not just lists, and the guess line reads cleanly on a phone.
+- Import room: tapping the document you're already on no longer makes its pages, and Cancel in the review window no longer ticks the lists off.
