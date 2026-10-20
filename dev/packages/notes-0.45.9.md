@@ -1,0 +1,2 @@
+- Import room: for a list, "One page per person" and "Keep it as one document" are now a switch. Picking one only picks it, and the preview below shows what you'll get: each page, or the document as one page. Switch as often as you like. The pages are made when you move on.
+- Import room: every page made from a list says which list it came from, with "Change back to one document" to undo it.
