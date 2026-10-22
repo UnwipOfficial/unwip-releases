@@ -1,0 +1,2 @@
+- iPhone: the page now follows as you type. Before, the words could run on behind the keyboard while the page stayed put.
+- iPhone and iPad: the formatting row above the keyboard no longer hides under the iPhone's own ^ ˅ ✓ bar, including after changing something earlier in a chapter, after Revise, and after switching out of the app and back.
