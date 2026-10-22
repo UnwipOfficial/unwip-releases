@@ -1,0 +1,3 @@
+- iPhone: while you type, the formatting row now sits just under the top bar instead of above the keyboard, so the iPhone's own ^ ˅ ✓ bar can never cover it or leave it floating. The chapter title is still right there below it, and the page keeps following your cursor.
+- iPhone: typing mode now switches on whenever the keyboard is up on the chapter, including after switching back from another app.
+- iPhone: ＋ Page. Select a name while writing and tap ＋ Page in the formatting row to make a character, place or item page called that, or add the words to a page you already have.
