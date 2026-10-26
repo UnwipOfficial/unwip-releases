@@ -1,0 +1,2 @@
+- iPhone and iPad: in ✎ Edit, tap a page or folder's name to rename it right there. The circle still ticks it.
+- iPhone and iPad: the hold menu no longer says Rename is a double-click, since a double tap opens the page.
