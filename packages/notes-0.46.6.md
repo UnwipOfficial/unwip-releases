@@ -1,0 +1,8 @@
+- iPhone and iPad: in ✎ Edit, tap a page or folder's name to rename it right there. The circle still ticks it.
+- iPhone and iPad: the hold menu no longer says Rename is a double-click, since a double tap opens the page.
+- Dropbox: "Two versions found" no longer comes up for the binder when nothing in it is different, such as after just opening the book on another device. A leftover one with nothing new in it is put away in the backups instead of asking every time the book opens.
+- iPhone: typewriter and other key sounds come back after you switch to another app and back.
+- Bold, italic, underline and strikethrough buttons now show what your next letters will be straight away. On iPhone, iPad and Safari, U used to stay lit after you turned underline off.
+- Deleting a selection and typing in its place carries on in the formatting the deleted words started with, as in Scrivener.
+- "This week" on the goal rings and in Play now counts from the start of this week (Monday in Australia), not the last 7 days.
+- Website: the three dots above the opening statement are back, filling in as the page opens.
