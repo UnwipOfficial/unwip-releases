@@ -1,0 +1,5 @@
+- Safety net: if a chapter is about to become much shorter, whether you saved it that way or a shorter copy came in from Dropbox or another device, Unwip first keeps the longer version in Snapshots (the ⟲ button on the chapter).
+- PC: if the Dropbox app puts back an older version of a chapter that Unwip saved a few minutes earlier, Unwip now notices and puts your newest words straight back. This is what emptied a chapter today.
+- Restarting for an update saves everything first. On iPhone and iPad with Dropbox, it also finishes syncing before it restarts, and tells you if Dropbox can't be reached.
+- While you type without stopping, your writing is now saved at least every 3 seconds. It used to wait for a pause.
+- iPhone and iPad: if a Dropbox sync is cut off part-way, or the app closes before it syncs, the chapters not sent yet go up with the next sync. Before, they could be skipped until you changed them again.
