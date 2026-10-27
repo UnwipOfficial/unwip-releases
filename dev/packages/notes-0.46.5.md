@@ -1,0 +1,1 @@
+- "This week" on the goal rings and in Play now counts from the start of this week (Monday in Australia), not the last 7 days.
