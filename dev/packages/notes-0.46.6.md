@@ -1,0 +1,1 @@
+- Website: the three dots above the opening statement are back, filling in as the page opens.
