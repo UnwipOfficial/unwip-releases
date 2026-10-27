@@ -1,0 +1,4 @@
+- Dropbox: "Two versions found" no longer comes up for the binder when nothing in it is different, such as after just opening the book on another device. A leftover one with nothing new in it is put away in the backups instead of asking every time the book opens.
+- iPhone: typewriter and other key sounds come back after you switch to another app and back.
+- Bold, italic, underline and strikethrough buttons now show what your next letters will be straight away. On iPhone, iPad and Safari, U used to stay lit after you turned underline off.
+- Deleting a selection and typing in its place carries on in the formatting the deleted words started with, as in Scrivener.
