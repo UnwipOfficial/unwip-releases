@@ -1,0 +1,2 @@
+- iPad: bold, italic and underline are always on the toolbar now. When space is short, the font box gets narrower instead, and the full font name still shows when you open it.
+- iPad with a keyboard attached: the iPad's own floating bar at the bottom no longer covers the word count, zoom and Record while you type.
