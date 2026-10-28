@@ -1,0 +1,3 @@
+- Import: lists you don't choose for stay as one document. Only the lists where you pick "One page per …" are turned into pages, however you move on.
+- Import: pages made from a list are no longer walked through one by one. Next goes past them, and the counter only counts the documents you brought in.
+- Deleting a book while Dropbox is busy with its folder: Unwip waits a few seconds and tries again. If it still can't, it says so plainly and leaves the book as it was, instead of a technical error.
