@@ -1,0 +1,9 @@
+- iPad: bold, italic and underline are always on the toolbar now. When space is short, the font box gets narrower instead, and the full font name still shows when you open it.
+- iPad with a keyboard attached: the iPad's own floating bar at the bottom no longer covers the word count, zoom and Record while you type.
+- Import: lists you don't choose for stay as one document. Only the lists where you pick "One page per …" are turned into pages, however you move on.
+- Import: pages made from a list are no longer walked through one by one. Next goes past them, and the counter only counts the documents you brought in.
+- Deleting a book while Dropbox is busy with its folder: Unwip waits a few seconds and tries again. If it still can't, it says so plainly and leaves the book as it was, instead of a technical error.
+- PC: typing no longer jitters every few seconds while Unwip saves. While you keep typing, only the chapter is saved, and the save no longer holds up the window. The rest of the book is saved when you pause.
+- Rename a book from the main screen: open its ⋯ menu and choose Rename…
+- Scrivener import: statuses now take the colour of the label their chapters carry in Scrivener, so "Amazon Ready" comes in gold.
+- PC: the scene break button stays on the toolbar unless the window is very narrow.
