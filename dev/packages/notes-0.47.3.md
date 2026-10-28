@@ -1,0 +1,1 @@
+- iPad with a keyboard attached: the page now keeps clear of the iPad's floating bar at the bottom on every iPad, so the zoom and the rest of the bottom row stay in reach while you type.
