@@ -1,0 +1,1 @@
+- iPad with a keyboard attached: the page now ends just above the iPad's floating bar instead of leaving a gap, so you get more of the page while you type.
