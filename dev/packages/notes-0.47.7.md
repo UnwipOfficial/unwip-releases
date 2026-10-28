@@ -1,0 +1,2 @@
+- iPad: tapping a check in Revise (Very hard sentences, Adverbs and the rest) goes through its highlights in the chapter again, one tap at a time.
+- Revise: after each jump, the short reason stays on screen for a moment instead of vanishing at once.
