@@ -1,0 +1,1 @@
+- iPad and narrow windows: tools tucked into "⋯" come back onto the toolbar whenever there's room for them. ⌘K, the font size and the paragraph style no longer hide next to empty space.
