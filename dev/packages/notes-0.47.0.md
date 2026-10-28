@@ -1,0 +1,4 @@
+- PC: typing no longer jitters every few seconds while Unwip saves. While you keep typing, only the chapter is saved, and the save no longer holds up the window. The rest of the book is saved when you pause.
+- Rename a book from the main screen: open its ⋯ menu and choose Rename…
+- Scrivener import: statuses now take the colour of the label their chapters carry in Scrivener, so "Amazon Ready" comes in gold.
+- PC: the scene break button stays on the toolbar unless the window is very narrow.
