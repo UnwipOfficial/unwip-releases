@@ -1,0 +1,3 @@
+- PC, Mac and iPad: a new button at the far left of the toolbar hides or brings back the left panel (Ctrl+Shift+[, or ⌘⇧[ on a Mac). Each book remembers it.
+- New in Settings › Appearance: "Hide the left panel while Revise or the side panel is open". It's on by default on an iPad and off on a PC or Mac, and the left panel comes back when you close them.
+- Writer mode: one way out. "Exit writer mode" sits clear of the side panel, and the extra ✕ on a tablet is gone.
