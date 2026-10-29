@@ -1,0 +1,1 @@
+- iPad and iPhone: when a chapter was changed on another device, opening it now shows what changed. A green bar says where and when, and the new or changed words are in green. Before, only the dot in the chapter list showed.
