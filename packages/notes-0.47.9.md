@@ -1,0 +1,9 @@
+- iPad and iPhone: when a chapter was changed on another device, opening it now shows what changed. A green bar says where and when, and the new or changed words are in green. Before, only the dot in the chapter list showed.
+- Words changed on another device now stand out in green on every theme and page colour, including dark ones.
+- Writer mode on a PC or Mac: one way out, the Exit in the strip that rises from the bottom.
+- iPad, iPhone and Safari on a Mac: shortcut hints say ⌘ where they used to say Ctrl.
+- Maps: ⌘⇧Z (Ctrl+Shift+Z) now redoes, as you'd expect.
+- Help is up to date: the missing shortcuts are listed (Read aloud, Track changes, Dialogue view, the left panel, page size, lists), and there are new topics for hiding the left panel, Revise cards and Build › Character.
+- The tour brings the left panel back if it's hidden, and shows the left-panel and side-panel buttons.
+- Ctrl+K: "Hide or show the left panel".
+- Behind the scenes: old code that nothing used any more is gone, and there are new safety checks for Kindle chapter titles and for boxes that would make an iPhone zoom in.
