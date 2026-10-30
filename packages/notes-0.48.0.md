@@ -1,0 +1,1 @@
+- Writer quotes: every one was checked against its source. Six that were slightly misquoted now read as the writer wrote them, and five that weren't really the writer's own published words are gone.
