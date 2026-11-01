@@ -1,0 +1,2 @@
+- PC and Mac: ✎ Edit at the bottom of the binder, as on the iPad, made for a mouse. Click rows to tick them, Shift-click to tick a run, then drag them by ≡ or use Move to…, Out of folder or Trash. Double-click a name to rename it, Ctrl+A ticks the rows beside the last one you clicked, Delete sends the ticked rows to the Trash (with Undo), and Esc finishes.
+- Outside Edit the binder works as before: drag a row, right-click, Alt+arrows.
