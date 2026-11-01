@@ -1,0 +1,3 @@
+- Record: ‹ Recordings in the player and the video window takes you back to the list of recordings, so finding the right one doesn't mean starting over. Esc does the same.
+- Record: replay videos are made much faster than they play on PC and Mac (and wherever the device can), and still play at the speed you pick. An 11-second test replay took about 2 seconds to make.
+- Record on PC and Mac: choose where videos and reports are saved, at the bottom of the recordings list. They go straight there (Videos\Unwip to start with), or untick "Save there without asking" to pick each time.
