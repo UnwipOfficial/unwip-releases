@@ -1,0 +1,1 @@
+- Record on PC and Mac: where videos and reports are saved is now at the bottom of the Record window and in Settings › Recordings and videos, so you can change it before you've made a single recording. Before, it was only in the recordings list, which doesn't open until there's a replay.
