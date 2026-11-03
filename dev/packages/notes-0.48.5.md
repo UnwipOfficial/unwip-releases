@@ -1,0 +1,4 @@
+- Paste matching manuscript style keeps italics, bold and underline, and your paragraphs and empty lines, while the words take your book's font and size. Before, it kept only the plain text.
+- Text pasted from another app keeps its own font, and Unwip adds the closest font it has built in as a backup, used when a device doesn't have the original.
+- Leave a book and come back, and you're where you last typed: the same chapter, with the cursor at that spot. On an iPhone or iPad it scrolls there without bringing up the keyboard. Each device remembers this for each book.
+- Settings: the section headings are bolder and easier to spot, labels that only repeated their button are gone (the buttons sit together instead), and the sections that save straight away have a small green tag.
