@@ -1,0 +1,1 @@
+- PC: cutting a line and pasting it into another paragraph keeps your book's font. Lines already pasted that lost it are mended when you open the chapter.
