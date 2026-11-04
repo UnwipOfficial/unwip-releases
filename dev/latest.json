@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.48.9",
-  "commit": "69e349fdbb1fe2a65bfcf20298d3b682eb439136",
-  "name": "Unwip Dev 0.48.9",
-  "body": "- Build: New character sheet has its own icon, a backpack, instead of the coat of arms' shield.\n\nsha256: f07c0653db861b215a8e83d1d86287a53de54606e36dbc232d012ecd1e1b1796",
+  "tag_name": "v0.48.10",
+  "commit": "4432b562c95e5839c8974c8e487b4fdb0321b036",
+  "name": "Unwip Dev 0.48.10",
+  "body": "- Binder: an icon Unwip no longer has now shows as the usual chapter or folder icon, instead of its name in letters. An unused life-ring icon was taken out.\n\nsha256: 4281b950230c5c6597c40cdaa21eae4fa519bf8fce3c31eb122a21f6c7313c12",
   "assets": [
     {
-      "name": "unwip-dev-app-0.48.9.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.48.9.zip"
+      "name": "unwip-dev-app-0.48.10.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.48.10.zip"
     },
     {
-      "name": "unwip-dev-app-0.48.9.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.48.9.zip.sha256"
+      "name": "unwip-dev-app-0.48.10.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.48.10.zip.sha256"
     }
   ]
 }

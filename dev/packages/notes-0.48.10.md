@@ -1,0 +1,1 @@
+- Binder: an icon Unwip no longer has now shows as the usual chapter or folder icon, instead of its name in letters. An unused life-ring icon was taken out.
