@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.48.6",
-  "commit": "5957d4edf3004c303216efd52b8fc22ffbf6d35d",
-  "name": "Unwip Dev 0.48.6",
-  "body": "- Writing history has a Copy\u2026 button. Copy your words by day as a list for a message or Discord, a table that pastes into Excel or Google Sheets as columns, or a picture of the grid with your totals. Pick this week, this month, the last 12 months, a year or your own dates. Only dates and numbers are copied; your books are named only if you tick Split by book. On an iPhone or iPad, Share\u2026 sends it straight to Messages, Notes or another app, and on a PC or Mac Save as file\u2026 keeps it as a spreadsheet file.\n\nsha256: d23f7fe6495850e42e39a07cce2828bda5aa515e0343dbdb3545b836e9bad29f",
+  "tag_name": "v0.48.7",
+  "commit": "90b2cd1f6aee0bf53cc6824230fccb02e5ea7367",
+  "name": "Unwip Dev 0.48.7",
+  "body": "- iPad and iPhone: in Ctrl+K (Find anything), swiping the results now scrolls the list. Before, it could move the whole screen instead. The box also fits above the keyboard's bar, so nothing hides under it.\n\nsha256: 12be154e6344b2b4600ec6cf65cbf5621a4eee6d2b482ee2fe73838811987e38",
   "assets": [
     {
-      "name": "unwip-dev-app-0.48.6.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.48.6.zip"
+      "name": "unwip-dev-app-0.48.7.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.48.7.zip"
     },
     {
-      "name": "unwip-dev-app-0.48.6.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.48.6.zip.sha256"
+      "name": "unwip-dev-app-0.48.7.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.48.7.zip.sha256"
     }
   ]
 }

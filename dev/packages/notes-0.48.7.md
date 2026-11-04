@@ -1,0 +1,1 @@
+- iPad and iPhone: in Ctrl+K (Find anything), swiping the results now scrolls the list. Before, it could move the whole screen instead. The box also fits above the keyboard's bar, so nothing hides under it.
