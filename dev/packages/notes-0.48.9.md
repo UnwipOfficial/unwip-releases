@@ -1,0 +1,1 @@
+- Build: New character sheet has its own icon, a backpack, instead of the coat of arms' shield.
