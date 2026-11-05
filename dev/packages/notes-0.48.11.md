@@ -1,0 +1,1 @@
+- Toolbar: the scene break button now shows * * *, so it no longer looks like the ⋯ button next to it. Same on the phone's formatting row.

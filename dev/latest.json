@@ -1,16 +1,16 @@
 {
-  "tag_name": "v0.48.10",
-  "commit": "4432b562c95e5839c8974c8e487b4fdb0321b036",
-  "name": "Unwip Dev 0.48.10",
-  "body": "- Binder: an icon Unwip no longer has now shows as the usual chapter or folder icon, instead of its name in letters. An unused life-ring icon was taken out.\n\nsha256: 4281b950230c5c6597c40cdaa21eae4fa519bf8fce3c31eb122a21f6c7313c12",
+  "tag_name": "v0.48.11",
+  "commit": "fdb55f3c432f5541de64a1a8bed7a676c839946d",
+  "name": "Unwip Dev 0.48.11",
+  "body": "- Toolbar: the scene break button now shows * * *, so it no longer looks like the \u22ef button next to it. Same on the phone's formatting row.\n\nsha256: 7e3b37fd3cb527e7c7489fa9e17e6131c3bb1b5bfc7fe341453970b421f51751",
   "assets": [
     {
-      "name": "unwip-dev-app-0.48.10.zip",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.48.10.zip"
+      "name": "unwip-dev-app-0.48.11.zip",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.48.11.zip"
     },
     {
-      "name": "unwip-dev-app-0.48.10.zip.sha256",
-      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.48.10.zip.sha256"
+      "name": "unwip-dev-app-0.48.11.zip.sha256",
+      "browser_download_url": "https://raw.githubusercontent.com/UnwipOfficial/unwip-releases/main/dev/packages/unwip-dev-app-0.48.11.zip.sha256"
     }
   ]
 }
