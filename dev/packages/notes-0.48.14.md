@@ -1,0 +1,3 @@
+- iPad: closing Find straight after typing in it could leave the found word marked in orange. It's cleared now.
+- Main screen: in Last 14 days, the "goal" label could cover the number of a day just under the goal. The label now sits above the chart.
+- iPad: the buttons at the bottom of the left panel (Settings, Recent, Search, Help, Edit and + New) fit on one line again.
