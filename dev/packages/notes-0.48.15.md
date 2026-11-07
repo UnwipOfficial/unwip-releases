@@ -1,0 +1,2 @@
+- Typing "- " at the start of a line still turns it into a bullet, but pressing Backspace straight after puts your "- " back, so you can start a line with a plain dash.
+- iPhone: tap Aa on the formatting row to align text left, centre, right or justified.
