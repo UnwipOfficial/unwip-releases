@@ -1,0 +1,4 @@
+- New: Text layout… in Settings › Appearance (also in Style and Ctrl+K). Set line spacing, first-line indent, space after paragraphs and justified text for the whole book, with an example from Dracula beside it that changes as you go. Use it for this book, new books too, or every book you have.
+- iPhone: tap Aa on the formatting row to align text left, centre, right or justified.
+- iPhone: going back to the chapter list now closes Style or any other side panel that was open.
+- Typing "- " at the start of a line still turns it into a bullet, but pressing Backspace straight after puts your "- " back, so you can start a line with a plain dash.
