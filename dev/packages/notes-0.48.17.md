@@ -1,0 +1,1 @@
+- iPad and iPhone: swiping down on the left side (the Focus / Detail / Lore strip, or a list already at its end) no longer slides the whole screen and hides the top bars. If the screen has slid, it goes back.
