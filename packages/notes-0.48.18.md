@@ -1,0 +1,3 @@
+- iPad and iPhone: swiping down on the left side (the Focus / Detail / Lore strip, or a list already at its end) no longer slides the whole screen and hides the top bars. If the screen has slid, it goes back.
+- iPhone and iPad: if the screen video doesn't start, the message now says to choose Share Entire Screen in Apple's sharing box (picking Safari on its own doesn't work).
+- iPhone: the red "Not recording" bar sits above the bottom buttons instead of over them, and fits on one line.
