@@ -1,0 +1,2 @@
+- iPhone and iPad: if the screen video doesn't start, the message now says to choose Share Entire Screen in Apple's sharing box (picking Safari on its own doesn't work).
+- iPhone: the red "Not recording" bar sits above the bottom buttons instead of over them, and fits on one line.
